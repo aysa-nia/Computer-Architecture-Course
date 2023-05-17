@@ -1,0 +1,28 @@
+Command line:
+   HardDiskTest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  6285
+
+Sat Jul 09 16:30:33 2022
+
+
+ Elaboration Time: 0.15625 sec
+
+ Current Memory Usage: 5213.54 Meg
+
+ Total Signals          : 14
+ Total Nets             : 91093
+ Total Signal Drivers   : 5
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 3
+ Total Traceable Variables  : 14
+ Total Scalar Nets and Variables : 91577
+
+ Total Simulation Time: 0.203125 sec
+
+ Current Memory Usage: 5056.26 Meg
+
+Sat Jul 09 16:31:33 2022
+

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "E:/VHDL/Project/FinalProject/VM.TLB.Cache.Memory.Simulator/CacheTest2way_isim_beh.exe" -prj "E:/VHDL/Project/FinalProject/VM.TLB.Cache.Memory.Simulator/CacheTest2way_beh.prj" "work.CacheTest2way" 

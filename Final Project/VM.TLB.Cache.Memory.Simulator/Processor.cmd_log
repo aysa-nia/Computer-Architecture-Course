@@ -1,0 +1,1 @@
+vhdtdtfi -prj VM.TLB.Cache.Memory.Simulator -o E:/VHDL/Project/FinalProject/FinalProject/VM.TLB.Cache.Memory.Simulator/Processor.vhi -module Processor -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Processor.vhd 

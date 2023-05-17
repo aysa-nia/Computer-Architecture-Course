@@ -1,0 +1,2 @@
+vhdtdtfi -prj VM.TLB.Cache.Memory.Simulator -o E:/VHDL/Project/FinalProject/FinalProject/VM.TLB.Cache.Memory.Simulator/TLB.vhi -module TLB -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work TLB.vhd 
+vhdtdtfi -prj VM.TLB.Cache.Memory.Simulator -o E:/VHDL/Project/FinalProject/FinalProject/VM.TLB.Cache.Memory.Simulator/TLB.vhi -module TLB -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work HardDisk.vhd -lib work mainMemory.vhd -lib work TLB.vhd 

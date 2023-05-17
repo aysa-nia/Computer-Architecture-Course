@@ -1,0 +1,2 @@
+vhdl isim_temp "PiplinedFullAdder.vhd"
+vhdl isim_temp "PFATest.vhd"

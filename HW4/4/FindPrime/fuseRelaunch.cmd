@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "E:/VHDL/HW4/5/FindPrime/FPTest_isim_beh.exe" -prj "E:/VHDL/HW4/5/FindPrime/FPTest_beh.prj" "work.FPTest" 

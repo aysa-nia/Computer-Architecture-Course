@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "E:/VHDL/HW3/5_1/divider/testDivide_isim_beh.exe" -prj "E:/VHDL/HW3/5_1/divider/testDivide_beh.prj" "work.testDivide" 

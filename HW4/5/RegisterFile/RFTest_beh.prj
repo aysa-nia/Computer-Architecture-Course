@@ -1,0 +1,2 @@
+vhdl work "RegisterFile.vhd"
+vhdl work "RFTest.vhd"

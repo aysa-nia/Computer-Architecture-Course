@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/IT CITY/Desktop/HW4/5/RegisterFile/RFTest_isim_beh.exe" -prj "C:/Users/IT CITY/Desktop/HW4/5/RegisterFile/RFTest_beh.prj" "work.RFTest" 

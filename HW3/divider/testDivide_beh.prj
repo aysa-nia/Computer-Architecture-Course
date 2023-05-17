@@ -1,0 +1,2 @@
+vhdl work "optimizedDivision.vhd"
+vhdl work "testDivide.vhd"

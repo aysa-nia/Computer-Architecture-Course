@@ -1,0 +1,28 @@
+Command line:
+   Miss_hit_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  12311
+
+Mon Jun 20 13:58:48 2022
+
+
+ Elaboration Time: 0.125 sec
+
+ Current Memory Usage: 5154.85 Meg
+
+ Total Signals          : 13
+ Total Nets             : 18
+ Total Signal Drivers   : 7
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 3
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 379
+
+ Total Simulation Time: 0.140625 sec
+
+ Current Memory Usage: 5154.85 Meg
+
+Mon Jun 20 13:58:57 2022
+

@@ -1,0 +1,30 @@
+Command line:
+   DirectCacheTest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  7370
+
+Sat Jul 09 13:17:51 2022
+
+
+ Elaboration Time: 0.09375 sec
+
+ Current Memory Usage: 5230.28 Meg
+
+ Total Signals          : 46
+ Total Nets             : 108522
+ Total Signal Drivers   : 22
+ Total Blocks           : 8
+ Total Primitive Blocks : 5
+ Total Processes        : 13
+ Total Traceable Variables  : 16
+ Total Scalar Nets and Variables : 109024
+In process mainMemory.vhd:42 
+ 
+
+ Total Simulation Time: 0.171875 sec
+
+ Current Memory Usage: 5544.85 Meg
+
+Sat Jul 09 13:18:23 2022
+

@@ -1,0 +1,4 @@
+vhdtdtfi -prj VM.TLB.Cache.Memory.Simulator -o E:/VHDL/Project/FinalProject/FinalProject/VM.TLB.Cache.Memory.Simulator/HardDisk.vhi -module HardDisk -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work HardDisk.vhd 
+vhdtdtfi -prj VM.TLB.Cache.Memory.Simulator -o E:/VHDL/Project/FinalProject/FinalProject/VM.TLB.Cache.Memory.Simulator/HardDisk.vhi -module HardDisk -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work HardDisk.vhd 
+vhdtdtfi -prj VM.TLB.Cache.Memory.Simulator -o E:/VHDL/Project/FinalProject/FinalProject/VM.TLB.Cache.Memory.Simulator/HardDisk.vhi -module HardDisk -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work HardDisk.vhd 
+vhdtdtfi -prj VM.TLB.Cache.Memory.Simulator -o E:/VHDL/Project/FinalProject/FinalProject/VM.TLB.Cache.Memory.Simulator/HardDisk.vhi -module HardDisk -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work HardDisk.vhd 

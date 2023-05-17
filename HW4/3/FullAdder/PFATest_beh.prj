@@ -1,0 +1,2 @@
+vhdl work "PiplinedFullAdder.vhd"
+vhdl work "PFATest.vhd"

@@ -1,0 +1,6 @@
+vhdl work "E:\VHDL\Project\FinalProject\FinalProject\VM.TLB.Cache.Memory.Simulator\HardDisk.vhd"
+vhdl work "E:\VHDL\Project\FinalProject\FinalProject\VM.TLB.Cache.Memory.Simulator\mainMemory.vhd"
+vhdl work "E:\VHDL\Project\FinalProject\FinalProject\VM.TLB.Cache.Memory.Simulator\TLB.vhd"
+vhdl work "E:\VHDL\Project\FinalProject\FinalProject\VM.TLB.Cache.Memory.Simulator\Processor.vhd"
+vhdl work "E:\VHDL\Project\FinalProject\FinalProject\VM.TLB.Cache.Memory.Simulator\Cach.vhd"
+vhdl work "E:\VHDL\Project\FinalProject\FinalProject\VM.TLB.Cache.Memory.Simulator\AllInOne.vhd"

@@ -1,0 +1,30 @@
+Command line:
+   CacheTest2way_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  6305
+
+Sat Jul 09 16:32:07 2022
+
+
+ Elaboration Time: 0.171875 sec
+
+ Current Memory Usage: 5230.84 Meg
+
+ Total Signals          : 45
+ Total Nets             : 106859
+ Total Signal Drivers   : 21
+ Total Blocks           : 8
+ Total Primitive Blocks : 5
+ Total Processes        : 12
+ Total Traceable Variables  : 16
+ Total Scalar Nets and Variables : 107361
+In process mainMemory.vhd:42 
+ 
+
+ Total Simulation Time: 0.1875 sec
+
+ Current Memory Usage: 5230.84 Meg
+
+Sat Jul 09 16:32:21 2022
+

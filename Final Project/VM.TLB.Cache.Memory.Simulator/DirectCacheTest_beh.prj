@@ -1,0 +1,4 @@
+vhdl work "HardDisk.vhd"
+vhdl work "mainMemory.vhd"
+vhdl work "Cach.vhd"
+vhdl work "DirectCacheTest.vhd"

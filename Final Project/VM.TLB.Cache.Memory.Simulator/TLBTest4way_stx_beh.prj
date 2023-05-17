@@ -1,0 +1,4 @@
+vhdl isim_temp "HardDisk.vhd"
+vhdl isim_temp "mainMemory.vhd"
+vhdl isim_temp "TLB.vhd"
+vhdl isim_temp "TLBTest4way.vhd"

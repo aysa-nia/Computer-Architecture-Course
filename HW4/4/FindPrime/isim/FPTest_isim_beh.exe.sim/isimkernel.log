@@ -1,0 +1,28 @@
+Command line:
+   FPTest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  10299
+
+Sat Jun 04 18:35:18 2022
+
+
+ Elaboration Time: 0.09375 sec
+
+ Current Memory Usage: 5154.93 Meg
+
+ Total Signals          : 7
+ Total Nets             : 22
+ Total Signal Drivers   : 4
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 3
+ Total Traceable Variables  : 15
+ Total Scalar Nets and Variables : 10746
+
+ Total Simulation Time: 0.125 sec
+
+ Current Memory Usage: 5154.93 Meg
+
+Sat Jun 04 18:35:37 2022
+
